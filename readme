@@ -1,0 +1,9 @@
+ OSI                  | Layer    | TCP/IP Protocols
+----------------------+----------+----------------------------------
+ Application Layer    | L7       | HTTP, HTTPS, FTP, SSH, LOCO, DNS
+ Presentation Layer   | L6       |
+ Session Layer        | L5       |
+ Transport Layer      | L4       | TCP, UDP
+ Network Layer        | L3       | IP (IPv4, IPv6), ICMP, ARP, RARP
+ Data Link Layer      | L2       | Ethernet
+ Physical Layer       | L1       |
